@@ -1,0 +1,11 @@
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawson_Ian_Ex10\Dawson_Ian_Ex10\bin\Debug\Dawson_Ian_Ex10.exe
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawson_Ian_Ex10\Dawson_Ian_Ex10\bin\Debug\Dawson_Ian_Ex10.pdb
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawson_Ian_Ex10\Dawson_Ian_Ex10\bin\Debug\Dawson_Ian_Ex10.xml
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawson_Ian_Ex10\Dawson_Ian_Ex10\obj\x86\Debug\ResolveAssemblyReference.cache
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawson_Ian_Ex10\Dawson_Ian_Ex10\obj\x86\Debug\WindowsApplication1.Form1.resources
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawson_Ian_Ex10\Dawson_Ian_Ex10\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawson_Ian_Ex10\Dawson_Ian_Ex10\obj\x86\Debug\GenerateResource.read.1.tlog
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawson_Ian_Ex10\Dawson_Ian_Ex10\obj\x86\Debug\GenerateResource.write.1.tlog
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawson_Ian_Ex10\Dawson_Ian_Ex10\obj\x86\Debug\Dawson_Ian_Ex10.exe
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawson_Ian_Ex10\Dawson_Ian_Ex10\obj\x86\Debug\Dawson_Ian_Ex10.xml
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawson_Ian_Ex10\Dawson_Ian_Ex10\obj\x86\Debug\Dawson_Ian_Ex10.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dawson_Ian_Ch7RoundNumber", "Dawson_Ian_Ch7RoundNumber\Dawson_Ian_Ch7RoundNumber.vbproj", "{14B77E20-EE8A-4CE8-B5F4-C90DADC253AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14B77E20-EE8A-4CE8-B5F4-C90DADC253AC}.Debug|x86.ActiveCfg = Debug|x86
+		{14B77E20-EE8A-4CE8-B5F4-C90DADC253AC}.Debug|x86.Build.0 = Debug|x86
+		{14B77E20-EE8A-4CE8-B5F4-C90DADC253AC}.Release|x86.ActiveCfg = Release|x86
+		{14B77E20-EE8A-4CE8-B5F4-C90DADC253AC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

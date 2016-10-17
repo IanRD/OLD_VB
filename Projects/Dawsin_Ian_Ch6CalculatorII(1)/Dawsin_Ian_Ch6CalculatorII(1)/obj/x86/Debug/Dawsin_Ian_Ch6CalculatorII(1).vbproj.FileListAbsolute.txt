@@ -1,0 +1,14 @@
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawsin_Ian_Ch6CalculatorII(1)\Dawsin_Ian_Ch6CalculatorII(1)\bin\Debug\Dawsin_Ian_Ch6CalculatorII(1).exe
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawsin_Ian_Ch6CalculatorII(1)\Dawsin_Ian_Ch6CalculatorII(1)\bin\Debug\Dawsin_Ian_Ch6CalculatorII(1).pdb
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawsin_Ian_Ch6CalculatorII(1)\Dawsin_Ian_Ch6CalculatorII(1)\bin\Debug\Dawsin_Ian_Ch6CalculatorII(1).xml
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawsin_Ian_Ch6CalculatorII(1)\Dawsin_Ian_Ch6CalculatorII(1)\obj\x86\Debug\ResolveAssemblyReference.cache
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawsin_Ian_Ch6CalculatorII(1)\Dawsin_Ian_Ch6CalculatorII(1)\obj\x86\Debug\WindowsApplication1.Form1.resources
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawsin_Ian_Ch6CalculatorII(1)\Dawsin_Ian_Ch6CalculatorII(1)\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawsin_Ian_Ch6CalculatorII(1)\Dawsin_Ian_Ch6CalculatorII(1)\obj\x86\Debug\GenerateResource.read.1.tlog
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawsin_Ian_Ch6CalculatorII(1)\Dawsin_Ian_Ch6CalculatorII(1)\obj\x86\Debug\GenerateResource.write.1.tlog
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawsin_Ian_Ch6CalculatorII(1)\Dawsin_Ian_Ch6CalculatorII(1)\obj\x86\Debug\Dawsin_Ian_Ch6CalculatorII(1).exe
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawsin_Ian_Ch6CalculatorII(1)\Dawsin_Ian_Ch6CalculatorII(1)\obj\x86\Debug\Dawsin_Ian_Ch6CalculatorII(1).xml
+\\A07-WIN-S01\0436DATA\USERS\STUDENTS\2017\591290\Visual Studio 2010\Projects\Dawsin_Ian_Ch6CalculatorII(1)\Dawsin_Ian_Ch6CalculatorII(1)\obj\x86\Debug\Dawsin_Ian_Ch6CalculatorII(1).pdb
+U:\Visual Studio 2010\Projects\Dawsin_Ian_Ch6CalculatorII(1)\Dawsin_Ian_Ch6CalculatorII(1)\obj\x86\Debug\Dawsin_Ian_Ch6CalculatorII(1).exe
+U:\Visual Studio 2010\Projects\Dawsin_Ian_Ch6CalculatorII(1)\Dawsin_Ian_Ch6CalculatorII(1)\obj\x86\Debug\Dawsin_Ian_Ch6CalculatorII(1).xml
+U:\Visual Studio 2010\Projects\Dawsin_Ian_Ch6CalculatorII(1)\Dawsin_Ian_Ch6CalculatorII(1)\obj\x86\Debug\Dawsin_Ian_Ch6CalculatorII(1).pdb
